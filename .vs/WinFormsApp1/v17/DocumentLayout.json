@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xxx\\source\\repos\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C078FFD-1493-4EB9-AAE2-3C5687919896}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\xxx\\source\\repos\\winformsapp1\\winformsapp1\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C078FFD-1493-4EB9-AAE2-3C5687919896}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C078FFD-1493-4EB9-AAE2-3C5687919896}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\xxx\\source\\repos\\winformsapp1\\winformsapp1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C078FFD-1493-4EB9-AAE2-3C5687919896}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C078FFD-1493-4EB9-AAE2-3C5687919896}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\xxx\\source\\repos\\winformsapp1\\winformsapp1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C078FFD-1493-4EB9-AAE2-3C5687919896}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C078FFD-1493-4EB9-AAE2-3C5687919896}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\xxx\\source\\repos\\winformsapp1\\winformsapp1\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C078FFD-1493-4EB9-AAE2-3C5687919896}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\xxx\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Player.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Player.cs",
+              "ToolTip": "C:\\Users\\xxx\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Player.cs",
+              "RelativeToolTip": "WinFormsApp1\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:02:14.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\xxx\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Game.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Game.cs",
+              "ToolTip": "C:\\Users\\xxx\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Game.cs",
+              "RelativeToolTip": "WinFormsApp1\\Game.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:39:48.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SettingController.cs",
+              "DocumentMoniker": "C:\\Users\\xxx\\source\\repos\\WinFormsApp1\\WinFormsApp1\\SettingController.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\SettingController.cs",
+              "ToolTip": "C:\\Users\\xxx\\source\\repos\\WinFormsApp1\\WinFormsApp1\\SettingController.cs",
+              "RelativeToolTip": "WinFormsApp1\\SettingController.cs",
+              "ViewState": "AQIAANYAAAAAAAAAAAAAwMQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:20:42.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\xxx\\source\\repos\\WinFormsApp1\\WinFormsApp1\\GameController.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\GameController.cs",
+              "ToolTip": "C:\\Users\\xxx\\source\\repos\\WinFormsApp1\\WinFormsApp1\\GameController.cs",
+              "RelativeToolTip": "WinFormsApp1\\GameController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowHUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:36:22.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
